@@ -2,9 +2,11 @@ CPAN_AUTHOR="djibel"
 inherit perl
 
 NAME="perl-Tk-Canvas-GradientColor"
-VERSION=1.05
+VERSION=1.06
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl/Tk canvas background gradient color module"
 DESCRIPTION="Tk::Canvas::GradientColor is a Perl package to generate
 background gradient color in a canvas widget composite."
+
+ARCH=noarch
